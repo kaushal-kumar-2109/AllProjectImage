@@ -1,0 +1,5 @@
+simon_game => https://simon-game-k.netlify.app/
+tick_tac_toe => https://tic-tac-toe-game-k.netlify.app/
+card_game => https://card-game-k.netlify.app/
+weather => https://weather-k-app.netlify.app/
+wonder-lust =>	https://wonder-lust-apnacollege.onrender.com/listings
